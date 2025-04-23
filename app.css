@@ -225,7 +225,7 @@
     }
 
     .section-heading h2 {
-        color: var(--white); /* Títulos das seções em preto */
+        color: var(--black); /* Títulos das seções em preto */
         font-size: 2.2rem;
         margin-bottom: 15px;
         position: relative;
