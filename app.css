@@ -391,6 +391,7 @@ nav a:hover {
     box-shadow: var(--shadow);
     transition: var(--transition);
     height: auto;
+    padding: auto;
 }
 
 .situation-card:hover {
@@ -500,7 +501,7 @@ nav a:hover {
 }
 
 .submit-btn {
-    background-color: var(--accent); /* Laranja (cor de destaque) */
+    background-color: #25D366;
     color: var(--white);
         padding: 12px 25px;
         border: none;
